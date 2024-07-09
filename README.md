@@ -1,9 +1,13 @@
-# YoutubeAI
-A chatbot that analyses a youtube video and let's you converse with it.
+# YouTubeAI Video Analysis Tool
+A chatbot that analyses a YouTube video and lets you converse with it.
+
+## Description
+Built a tool to provide timestamped answers to video questions.
+Integrated YouTube Transcript API and OpenAI LLM API for subtitles and text processing.
 
 ## Steps to run:
 0. (Optional)i.Creating a virtual environment: python3 -m venv vn (vn is the name of the folder)
-      ii.To activate : source vn/bin/activate
+      ii. To activate: source vn/bin/activate
 
 1. Install the required packages by running the code:
     pip install -r requirements.txt
